@@ -1,0 +1,25 @@
+{
+  "name": "camli23",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CamLi23/request-HTTP-requests.git"
+  },
+  "keywords": [
+    "penis"
+  ],
+  "author": "Cameron Cutler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CamLi23/request-HTTP-requests/issues"
+  },
+  "homepage": "https://github.com/CamLi23/request-HTTP-requests#readme",
+  "dependencies": {
+    "request": "^2.81.0"
+  }
+}
